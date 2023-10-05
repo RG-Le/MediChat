@@ -1,0 +1,9 @@
+pypdf
+langchain~=0.0.308
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss_cpu
+chainlit~=0.7.1
